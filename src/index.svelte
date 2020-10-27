@@ -1,3 +1,5 @@
-<h1>Svelte</h1>
+<script>
+    import Header from './Header.svelte'
+</script>
 
-<p>Welcome to coding with Svelte!</p>
+<Header />
